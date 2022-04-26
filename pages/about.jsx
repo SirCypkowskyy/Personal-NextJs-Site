@@ -12,7 +12,6 @@ const AboutPage = () => {
     <>
       <h3>🧑🏻‍🏫&nbsp;Personal Info</h3>
       <img align="right" width="350px" height="350px" style={imageMargin} alt="My typical day" src="https://media3.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif?cid=790b761157vrk7gdew8yfsk2i9nrr4pm1jtlxzvrqz605ex0&rid=giphy.gif&ct=s"/>
-
       <br />
       I am a passionate and goal-driven Computer Science student with 2+ years of non-commercial experience programming and developing (mainly) video games.
       <br />
@@ -31,6 +30,10 @@ const AboutPage = () => {
         &nbsp;🎮&nbsp;My favourite video games genres to play and develop are shooter, strategy, story-driven & RPG
         <br />
         &nbsp;🔖&nbsp;You can get my cv by clicking <a href="https://github.com/SirCypkowskyy/SirCypkowskyy/raw/main/cv/Cyprian_Gburek_Resume_18-03-2022-11-50-09.pdf" style={linkStyle}>here</a>
+        <br />
+        <br />
+        <a href="https://wakatime.com/@SirCypkowskyy"> <img src="https://wakatime.com/badge/user/08e334c0-a2a5-4c39-8173-a87d861cbd46.svg"/> </a>
+
     </>
   );
 };
