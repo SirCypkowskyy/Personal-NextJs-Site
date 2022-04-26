@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "name": "This Site",
+    "image": "https://i.imgur.com/0yVq9BT.png",
+    "description": "This website made by myself",
+    "tags": ["next", "react", "css-modules"],
+    "source_code": "https://github.com/itsnitinr/vscode-portfolio",
+    "demo": "https://sircypkowskyy.github.io/"
+  },
+  {
+    "id": 2,
+    "name": "Fear the Repo (Ludum Dare 50 Submission)",
+    "image": "https://img.itch.zone/aW1nLzg1ODg0MjMuanBn/315x250%23c/JvoHCS.jpg",
+    "description": "Time-dependend parkour tower-defence FPS.\n\nEverything is lost. The IRS is coming. You MUST stop them at ANY cost. As a brave and exemplary citizen, you must stand up for your own wealth - do not let anyone take what is yours from YOU...",
+    "tags": ["unity", "c-sharp", "jetbrains-rider"],
+    "demo": "https://bloodyedward.itch.io/fear-the-repo"
+  },
+  {
+    "id": 3,
+    "name": "Chao Prepetuum (Brackeys Game Jam 2021.2 Submission)",
+    "image": "https://img.itch.zone/aW1nLzY4NTg2NjIucG5n/315x250%23c/IY%2F3eT.png",
+    "description": "Pseudo RTS-RPG game jam project.\n\nSpread the corruption of Chaos and establish world dominance in this action-strategy hybrid all about creating hordes of mutants. As an Agent of Chaos your goal is to destroy all of the opposing Agents of Cosmos. Drain their life, change the environment into your servants and ruin perfection.",
+    "tags": ["unity", "c-sharp", "visual-studio"],
+    "demo": "https://bloodyedward.itch.io/chao-prepetuum"
+  },
+  {
+    "id": 4,
+    "name": "A.D. 1656 (Polish Gamedev Game Jam Submission)",
+    "image": "https://img.itch.zone/aW1nLzY1OTM0NzkucG5n/315x250%23c/U1anhv.png",
+    "description": "The action of the game is set in the realities of the 'Swedish Deluge' - the Polish-Swedish war in the 17th century.\n\nAlthough me and my team originally intended to create a small RPG in which we would be responsible for the village and the needs of its inhabitants - due to the lack of time to complete the quests and the role of the NPC in the game, we ended it as an audiovisual journey through dreams/memories, where the player would be following the memories of what happened with the inhabitants in pre-war times.",
+    "tags": ["unity", "c-sharp", "visual-studio"],
+    "demo": "https://chanjohann.itch.io/ad-1656"
+  },
+  {
+    "id": 5,
+    "name": "Son of a Gun (GMTK 2021 Submission)",
+    "image": "https://img.itch.zone/aW1nLzYyNDg0MTIucG5n/315x250%23c/mW9D1Q.png",
+    "description": "Parkour FPS project with teleportation theme.\n\nIn Son of a Gun you need to save your father from imminent death. He has been missing and you have been searching. After months you got a lead. His heart was stolen by his failed experiments. All you have is a strange gun he gave you. Take his heart and maybe you will get your father back in whole.",
+    "tags": ["unity", "c-sharp", "reaper", "visual-studio"],
+    "demo": "https://sircypkowskyy.itch.io/son-of-a-gun"
+  },
+  {
+    "id": 6,
+    "name": "Dead Ringer (Warsaw Video Games Creation High School End-Term Project)",
+    "image": "https://img.itch.zone/aW1nLzUwNjMzNjcucG5n/315x250%23c/lmrIPC.png",
+    "description": "Ringer is a small game attempting to mix point and click puzzle gameplay with bullet-dodging. You wake up in an office full of killers and must become one yourself to get out. Problem is you can't attack them directly - you have to use the environment around you to solve deadly puzzles.\n\nThe game was made as part of a semester project in Liceum Kreacji Gier Wideo (Video Game Creation High School) in Warsaw.",
+    "tags": ["unity", "c-sharp", "reaper", "visual-studio"],
+    "demo": "https://img.itch.zone/aW1nLzUwNjMzNjcucG5n/315x250%23c/lmrIPC.png"
+  },
+  {
+    "id": 7,
+    "name": "Welcome to the FUNK Zone (Warsaw Film School Game Jam Submission)",
+    "image": "https://img.itch.zone/aW1nLzQ3ODcyMzUucG5n/315x250%23c/2wXwdv.png",
+    "description": "Once you're in the zone - there's no funking back.\nEmbark on a great adventure of DJ-ing for the most prestigious cyber-audiences as you defend the name of FUNK in an EDM-dominated world.",
+    "tags": ["unity", "c-sharp", "visual-studio"],
+    "demo": "https://bloodyedward.itch.io/funkzone"
+  },
+  {
+    "id": 8,
+    "name": "Keep It Live (Ludum Dare 46 Submission)",
+    "image": "https://img.itch.zone/aW1nLzMyODYwODgucG5n/347x500/lMKJIq.png",
+    "description": "You're a controversial, yet successful streamer. There are people who will try to get your stream down. Your life, and more importantly internet fame depends on it!",
+    "tags": ["unity", "c-sharp", "visual-studio"],
+    "demo": "https://zubrzysta.itch.io/keep-it-live"
+  }
+]
