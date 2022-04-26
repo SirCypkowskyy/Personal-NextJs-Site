@@ -1,3 +1,4 @@
+<img src="https://i.imgur.com/0yVq9BT.png"></img>
 # Personal-NextJs-Site
 My new personal site made with React &amp; Next.js
 
