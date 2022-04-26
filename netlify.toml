@@ -1,6 +1,5 @@
 [build]
   command = "next run build && next run start"
-  publish = "out"
   target = "serverless"
 
 [[plugins]]
