@@ -1,3 +1,0 @@
-[build]
-  command = "next run build && next run start"
-  target = "serverless"
