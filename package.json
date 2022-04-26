@@ -4,7 +4,6 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "devwin": "./node_modules/.bin/next.cmd",
     "build": "next build",
     "start": "next start"
   },
