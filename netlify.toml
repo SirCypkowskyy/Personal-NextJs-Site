@@ -1,5 +1,5 @@
 [build]
-  command = "next build && yarn export"
+  command = "yarn build && yarn export"
   publish = "out"
   target = "serverless"
 
