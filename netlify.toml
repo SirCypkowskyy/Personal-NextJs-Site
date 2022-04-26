@@ -1,5 +1,5 @@
 [build]
-  command = "npm build && npm export"
+  command = "nuxt build"
   publish = "out"
   target = "serverless"
 
