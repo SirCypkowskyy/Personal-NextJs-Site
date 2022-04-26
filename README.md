@@ -5,3 +5,6 @@ My new personal site made with React &amp; Next.js
 
 # Credits
 Original design: https://github.com/itsnitinr/vscode-portfolio
+
+# Making working fork
+In order to run your own fork without any trobule, you should add `.env.local` file inside the project directory. Check `.env.local.example` file for more information.
